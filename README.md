@@ -1,1 +1,1 @@
-# Bank-Mangment-System
+# BankSyS

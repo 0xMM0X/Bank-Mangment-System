@@ -1,0 +1,12 @@
+Resived amount 20.0
+Deposited amount 200.0
+Withdrew amount 200.0
+Deposited amount 200.0
+Transferred amount 50.0
+Transferred amount 50.0
+Transferred amount 50.0
+Transferred amount 50.0
+Transferred amount 50.0
+Transferred amount 300.0
+Withdrew amount 150.0
+Deposited amount 51.0

@@ -1,0 +1,7 @@
+received amount 50.0
+received amount 50.0
+received amount 50.0
+received amount 50.0
+received amount 0.0
+received amount 50.0
+received amount 300.0
